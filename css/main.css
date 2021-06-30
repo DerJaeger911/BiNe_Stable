@@ -1,0 +1,9 @@
+.page-wrap {
+    padding:2rem 0;
+    min-height: calc(100vh - 120px - 1.9rem);
+}
+
+
+.entry-title {
+    display: none;
+ }
